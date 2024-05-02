@@ -13,7 +13,7 @@ See https://github.com/dotnet/maui/issues/18193#issuecomment-2090956376
 
 |  Android  | iOS  |
 | :------------: | :------------: |
-|  Android | iOS  |
+|  [MP4 Video](https://github.com/vr4guid/Maui-8-Xaminals/blob/main/mp4/MAUI-8-Xaminals-Android.mp4 "MP4 Video") | [MP4 Video](https://github.com/vr4guid/Maui-8-Xaminals/blob/main/mp4/MAUI-8-Xaminals-iOS.mp4 "MP4 Video")  |
 
 
 ---
